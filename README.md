@@ -5,9 +5,11 @@
 - 1.Usando a sua conta no GitHub, crie um repositório público com o nome CI_CD; 
 >[concluído]
 - 2.Convide o(s) outro(s) colaborador(es) para ter acesso a este repositório;
->[andamento]
-- 3.Após clonar o repositório criado, inclua um arquivo index.html com conteúdo válido --(pode usar exemplos “prontos” da Internet); 
-- 4.Faça o ciclo de commit/push para este arquivo; 
+>[concluído]
+- 3.Após clonar o repositório criado, inclua um arquivo index.html com conteúdo válido --(pode usar exemplos “prontos” da Internet);
+- [concluído] 
+- 4.Faça o ciclo de commit/push para este arquivo;
+- [concluído]
 - 5.No ambiente do GitHub, crie um branch para seu repositório com nome develop; 
 - 6.Seu colaborador deve clonar este repositório e fazer checkout do branch develop; 
 - 7.Na máquina do colaborador devem ser feitas alterações no index.html seguidas do fluxo commit/push; 
